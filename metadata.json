@@ -1,0 +1,6 @@
+{
+  "name": "MyhotWiFi",
+  "description": "نظام إدارة شبكات الواي فاي، القسائم، الأجهزة، وبوابة تسجيل الدخول لأجهزة الأندرويد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

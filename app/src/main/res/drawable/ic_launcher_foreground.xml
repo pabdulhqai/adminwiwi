@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="18"
+        android:translateY="18"
+        android:scaleX="0.666"
+        android:scaleY="0.666">
+        <!-- Center Dot -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M 54, 76 A 6 6 0 1 1 54, 88 A 6 6 0 1 1 54, 76" />
+
+        <!-- Inner Wave -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#38BDF8"
+            android:strokeWidth="6"
+            android:strokeLineCap="round"
+            android:pathData="M 38,62 C 47,54 61,54 70,62" />
+
+        <!-- Middle Wave -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#0EA5E9"
+            android:strokeWidth="6"
+            android:strokeLineCap="round"
+            android:pathData="M 26,48 C 42,34 66,34 82,48" />
+
+        <!-- Outer Wave -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#0284C7"
+            android:strokeWidth="6"
+            android:strokeLineCap="round"
+            android:pathData="M 14,34 C 36,14 72,14 94,34" />
+
+        <!-- Voucher Ticket Badge on the lower right -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M 68,68 L 94,68 A 4 4 0 0 1 98,72 L 98,90 A 4 4 0 0 1 94,94 L 68,94 A 4 4 0 0 1 64,90 L 64,72 A 4 4 0 0 1 68,68 Z" />
+        <path
+            android:fillColor="#0F172A"
+            android:pathData="M 72,74 L 90,74 L 90,78 L 72,78 Z M 72,82 L 86,82 L 86,85 L 72,85 Z" />
+    </group>
+</vector>
